@@ -10,7 +10,7 @@ Documents are **groups of pages** connected through:
 - **previous/next navigation**
 - **versioning**
 
-## SUper cool Create your first Doc
+## Super cool - Create your first Doc
 
 Create a Markdown file at `docs/hello.md`:
 
