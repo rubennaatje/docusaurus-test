@@ -12,7 +12,7 @@ Have **5 more minutes**? Take a look at [**versioning**](../tutorial-extras/mana
 
 Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
 
-![](https://holocron.so/uploads/571e4a9c-vattenfall-logo2.svg)
+xcsdsdcs
 
 ## What's next?
 
